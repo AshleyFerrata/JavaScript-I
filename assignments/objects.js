@@ -52,13 +52,13 @@ const students = [
 // Mitzi's name
 console.log(students[0].name); // Mitzi's name
 // Kennan's ID
-
+console.log(students[1].id); // Kennan's ID 
 // Keven's email
-
+console.log(students[2].email); // Keven's email
 // Gannie's name
-
+console.log(students[3].name); // Gannie's name
 // Antonietta's Gender
-
+console.log(students[4].gender); // Antonietta
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
 // console.log(kennan.speak());
